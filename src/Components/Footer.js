@@ -26,8 +26,8 @@ class Footer extends Component {
                 <li>&copy; Copyright 2021 Ethan Ackerman Oregon Marine Board</li>
                 <li>
                   Design by{" "}
-                  <a title="Styleshout" href="http://www.styleshout.com/">
-                    Styleshout
+                  <a title="Styleshout" href="/">
+                    Ethan and Tony Aesthetics
                   </a>
                 </li>
               </ul>
