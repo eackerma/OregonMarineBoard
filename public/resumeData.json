@@ -29,11 +29,6 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/ethan-ackerman-562a7413a/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
         "url":"https://www.instagram.com/boatoregon/?hl=en",
         "className":"fa fa-instagram"
